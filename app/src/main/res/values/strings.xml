@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="welcome_to_alc_4">Welcome to ALC 4.0</string>
+    <string name="my_profile">My Profile</string>
+    <string name="about_alc">About ALC</string>
+    <string name="mitchel_okomor">Mitchel Okomor</string>
+    <string name="track_android">Track: Android</string>
+    <string name="phone_number_08039215852">Phone Number: 08039215852</string>
+    <string name="email_mitchel_okomor_gmail_com">Email: mitchel.okomor@gmail.com</string>
+    <string name="country_nigeria">Country: Nigeria</string>
+    <string name="slack_username_mitchel_okomor">Slack Username: @Mitchel Okomor</string>
+    <string name="todo">TODO</string>
+</resources>
